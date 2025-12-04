@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99d44d5f-79eb-4c02-90be-a84af60e55d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Rafay-Shaikh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Rafay-Shaikh/portfolio.git",
+    "accountId": "beacb331-2939-4eca-b5c2-2174b4f58501"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="35kDa3Yd35wdIECfoAIvGrCDHjE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.localhost:5173.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Merging main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\Wajiz.kpk\\AppData\\Local\\Programs\\WebStorm 2025.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\3d-porfolio\src\components\Models" />
+      <recent name="C:\3d-porfolio\src\sections" />
+      <recent name="C:\3d-porfolio\src\components\HeroModels" />
+      <recent name="C:\3d-porfolio" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="localhost:5173" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:5173/">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:5173" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99d44d5f-79eb-4c02-90be-a84af60e55d5" name="Changes" comment="" />
+      <created>1763645238485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763645238485</updated>
+      <workItem from="1763645240176" duration="5093000" />
+      <workItem from="1763650894220" duration="1672000" />
+      <workItem from="1763656124534" duration="10275000" />
+      <workItem from="1763676782225" duration="1223000" />
+      <workItem from="1763678172457" duration="13896000" />
+      <workItem from="1763694317293" duration="5546000" />
+      <workItem from="1763700102949" duration="461000" />
+      <workItem from="1763730749443" duration="380000" />
+      <workItem from="1763732659618" duration="7163000" />
+      <workItem from="1763751757372" duration="799000" />
+      <workItem from="1763768488525" duration="16692000" />
+      <workItem from="1763806499234" duration="86000" />
+      <workItem from="1763819070600" duration="4013000" />
+      <workItem from="1763827332480" duration="2874000" />
+      <workItem from="1763901446845" duration="255000" />
+      <workItem from="1763904026531" duration="271000" />
+      <workItem from="1763909230922" duration="9640000" />
+      <workItem from="1763985079995" duration="341000" />
+      <workItem from="1763989535811" duration="6172000" />
+      <workItem from="1763998162704" duration="5554000" />
+      <workItem from="1764003915164" duration="742000" />
+      <workItem from="1764211288061" duration="277000" />
+      <workItem from="1764282219372" duration="920000" />
+      <workItem from="1764284373059" duration="1526000" />
+      <workItem from="1764455296841" duration="67000" />
+      <workItem from="1764458840961" duration="1492000" />
+      <workItem from="1764460815347" duration="260000" />
+      <workItem from="1764461145046" duration="4061000" />
+      <workItem from="1764541175071" duration="2039000" />
+      <workItem from="1764591118089" duration="289000" />
+      <workItem from="1764617837929" duration="377000" />
+      <workItem from="1764800401529" duration="5316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:react" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:tailwindcss" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vite" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
